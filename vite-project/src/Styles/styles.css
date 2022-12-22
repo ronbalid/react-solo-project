@@ -67,3 +67,55 @@ body {
 }
 /* END OF INFO */
 
+/* ABOUT */
+.about--container {
+  color: #fff;
+  padding: 1rem 2rem;
+}
+
+.about--container h2 {
+  margin-bottom: 0.5rem;
+}
+
+.about--container p {
+  line-height: 1.5rem;
+}
+/* END OF ABOUT */
+
+/* INTERESTS */
+.about--interests {
+  color: #fff;
+  padding: 1rem 2rem;
+}
+
+.about--interests h2 {
+  margin-bottom: 0.5rem;
+}
+
+.about--interests p {
+  line-height: 1.5rem;
+}
+/* END OF INTERESTS */
+
+/* FOOTER */
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  background-color: #161619;
+  height: 64px;
+}
+
+footer div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+footer a > i {
+  color: #918E9B;
+  padding: 0 1rem;
+  font-size: 2em;
+}
+/* END OF FOOTER */
