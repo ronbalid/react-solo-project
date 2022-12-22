@@ -69,8 +69,10 @@ body {
 
 /* ABOUT */
 .about--container {
+  margin: 0 auto;
   color: #fff;
   padding: 1rem 2rem;
+  width: 23rem;
 }
 
 .about--container h2 {
@@ -84,8 +86,10 @@ body {
 
 /* INTERESTS */
 .about--interests {
+  margin: 0 auto;
   color: #fff;
   padding: 1rem 2rem;
+  width: 23rem;
 }
 
 .about--interests h2 {
